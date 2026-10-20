@@ -7,7 +7,7 @@ Publicado em https://azeugral.github.io/laura-hagg/ (com `noindex` até a aprova
 
 - **Paleta:** breu `#0c0b0b`, pedra `#141312`, gesso `#ece7df`, cinza `#9d978e` e sangue `#c4161c` / `#e0262c`.
   O gesso e o cinza vêm das estátuas de mármore que ela usa nos mockups do destaque "Disponíveis". O vermelho vem das linhas vermelhas das tattoos.
-- **Fontes:** Bodoni Moda (títulos e marca), IBM Plex Sans (texto) e JetBrains Mono (rótulos).
+- **Fontes:** Grenze nos títulos e na marca (serifa entre romana e gótica, com terminais pontudos como o ornamental dela) e Atkinson Hyperlegible Next e Mono no texto e nos rótulos (feitas para legibilidade; o zero cortado é da fonte).
 - **Fundo do hero:** `assets/js/marmore.js` é mármore negro gerado em shader, espelhado num eixo atrás da foto, como um ornamental simétrico. Tem veios claros, tinta preta e um fio vermelho fino.
   No desktop roda ao vivo (WebGL, até 2x de DPR). Em tela de toque toca o MP4 de `tools/gerar_video.py`.
 - **Botões:** retos, com um filete gravado por dentro. No hover o filete encosta na borda e o fundo vira vermelho.
